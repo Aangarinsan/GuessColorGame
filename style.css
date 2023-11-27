@@ -44,3 +44,11 @@
     color: lightblue;
     padding: 10px;
   }
+
+@media screen & (max-width:600px){
+    .colour{
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    margin: 30px;
+}
